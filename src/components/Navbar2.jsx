@@ -50,6 +50,11 @@ class Navbar2 extends Component {
                   UsecallBack
                 </Link>
               </li>
+              <li className="nav-item">
+                <Link className="nav-link" to="customHook">
+                  Custom
+                </Link>
+              </li>
             </ul>
           </div>
         </div>
